@@ -13,4 +13,4 @@
 - matplotlib  
 
 # 檔案說明 Files  
-- `weather_visualization.ipynb`：主要程式碼（Jupyter Notebook）  
+- `weather_visualization.ipynb`：主要程式碼（google colab）  
